@@ -529,6 +529,7 @@
 
 - [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - For macOS.
 - [Dev Env](https://github.com/jondot/awesome-devenv#readme)
+- [IDEs](https://github.com/zeelsheladiya/Awesome-IDEs#readme) - Integrated Development Environment  
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles#readme)
 - [Shell](https://github.com/alebcay/awesome-shell#readme)
 - [Fish](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
